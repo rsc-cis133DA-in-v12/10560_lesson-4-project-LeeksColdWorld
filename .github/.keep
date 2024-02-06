@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <!-- Web Development CIS133DA  -->
@@ -14,6 +14,8 @@
         <h1>Basic Template</h1>
         <nav>
             <a href="#">Link</a>
+        </nav>
+        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat fugit facere facilis accusantium impedit dolore distinctio est porro, id quo error alias? Totam vitae assumenda molestiae accusantium sed sapiente hic, reprehenderit atque obcaecati adipisci voluptate iste accusamus, aut commodi. Rem ipsam ullam pariatur blanditiis repudiandae consequuntur voluptatem iure incidunt eaque aut asperiores enim exercitationem necessitatibus ut corrupti quos omnis, unde minus a minima eius! Assumenda doloribus perferendis expedita magni adipisci!</h2>
         </nav>
 
         <!-- Existing content -->
